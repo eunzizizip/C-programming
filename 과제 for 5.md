@@ -46,6 +46,7 @@ int main(void)
         }
         printf("\n"); //다음 행으로 넘어가기 위한 줄바꿈
     }
+    return 0;
 }
 
 ```
@@ -65,6 +66,7 @@ int main(void)
         }
         printf("\n"); //줄바꿈 
     }
+    return 0;
 }
 ```
 
@@ -85,6 +87,7 @@ int main(void)
         }
         printf("\n");
     }
+    return 0;
 }
 
 
