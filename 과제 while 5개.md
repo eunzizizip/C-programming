@@ -1,3 +1,4 @@
+```c
 #include <stdio.h>
 
 int main(void)
@@ -11,8 +12,9 @@ int main(void)
     }
     return 0;
 }
+```
 
-
+```c
 #include <stdio.h>
 
 int main(void)
@@ -29,8 +31,9 @@ int main(void)
     printf("1부터 10까지의 정수의 합=%d\n",sum);
     return 0;
 }
+```
 
-
+```c
 #include <stdio.h>
 
 int main(void)
@@ -51,8 +54,9 @@ int main(void)
     }
     return 0;
 }
+```
 
-
+```c
 #include <stdio.h>
 
 int main(void)
@@ -73,8 +77,9 @@ int main(void)
     }
     return 0;
 }
+```
 
-
+```c
 #include <stdio.h>
 
 int main(void)
@@ -95,3 +100,4 @@ int main(void)
    }
    return 0;
 }
+```
